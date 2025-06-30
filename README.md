@@ -308,6 +308,8 @@ GROUP BY category;
 > Passionate about real-world datasets, visual storytelling, and SQL problem-solving.
 
 📎 [LinkedIn] (https://www.linkedin.com/in/supriya-yadav-b1564b319)
+    [git hub] github.com/supriya152428 
+
 
 
 
