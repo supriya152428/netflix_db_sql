@@ -18,7 +18,7 @@ This project focuses on exploring and analyzing Netflix’s movie and TV show ca
 
 ---
 
-## 📊 Dataset Information
+## 📊 Dataset Information 
 
 * **Source:** [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
